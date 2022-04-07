@@ -2,17 +2,12 @@
 #include <string>
 using namespace std;
 
-class Baek_11718
+void solution_11748()
 {
-public:
+	string input;
 
-	void solution()
+	while (getline(cin, input, '\n'))
 	{
-		string input;
-
-		while (getline(cin, input, '\n'))
-		{
-			cout << input << endl;
-		}
+		cout << input << endl;
 	}
-};
+}
