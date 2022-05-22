@@ -3,7 +3,7 @@
 using namespace std;
 // 약수 구하기
 
-int main()
+int solution_2501()
 {
 	int N, K, solution, num;
 
