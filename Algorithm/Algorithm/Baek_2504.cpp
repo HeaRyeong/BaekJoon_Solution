@@ -1,0 +1,13 @@
+#include <iostream>
+
+using namespace std;
+// °ýÈ£ÀÇ °ª
+
+
+
+int solution_2504()
+{
+
+
+	return 0;
+}
